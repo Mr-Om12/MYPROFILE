@@ -60,9 +60,10 @@ a:hover {
 .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 20px;
-  color:#fff;
 }
-
+a.footer-link {
+    color: white;
+}
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
