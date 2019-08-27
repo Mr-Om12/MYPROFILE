@@ -1,10 +1,11 @@
 body {
   color: #40514E;
   margin: 0;
-  text-align: center;
+  text-align:center;
   font-family: 'Merriweather', serif;
 }
-.carousel-control-prev{
+.carousel-control-prev
+{
   position: absolute;
   top:300px;
   left: 50px;
