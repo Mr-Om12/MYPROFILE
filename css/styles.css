@@ -48,7 +48,7 @@ a:hover {
 }
 
 .top-container {
-  background-color: #E4F9F5;
+  background-color:#0c0c0c;
   position: relative;
   padding-top: 100px;
 }
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color:#0c0c0c;
   padding: 50px 0 20px;
 }
 a.footer-link {
